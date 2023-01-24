@@ -1,5 +1,5 @@
 
-![badge](imagenes/badge.webp)
+![badge](Imagenes/badge.webp)
 
 # Manual Reporte Gestores
 
