@@ -103,7 +103,7 @@
 
 ## 1. ALIADOS DE TRABAJO Y HERRAMIENTAS
 
-![imagenes/aliadosyherramientas.png](imagenes/aliadosyherramientas.png)
+![Imagenes/aliadosyherramientas.png](Imagenes/aliadosyherramientas.png)
 
 ## Q 2. ALIADOS DE TRABAJO Y HERRAMIENTAS
 
