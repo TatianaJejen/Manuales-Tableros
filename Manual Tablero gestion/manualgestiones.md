@@ -35,9 +35,13 @@
 
 ![Imagenes/aliadosyherramientas.png](Imagenes/aliadosyherramientas.png)
 
+[Indice](#indice)
+
 ### Fuentes de trabajo
 
 ![Imagenes/fuentesdetrabajo.png](Imagenes/fuentesdetrabajo.png)
+
+[Indice](#indice)
 
 ### Dimensión de variables
 
@@ -49,6 +53,8 @@
 
 ![Imagenes/dimensiondevariables.png](Imagenes/dimensiondevariables.png)
 
+[Indice](#indice)
+
 ## 2. Herramientas
 
 ### Menú
@@ -56,6 +62,8 @@
 Se genera la creacion de un menú flotante para dar espacio a las visualizaciónes y que contaran con una medida ideal para su correcta lectura, adicional ayudara a una forma más rapida de navegacion.
 
 ![Imagenes/IndiceFlotante.png](Imagenes/IndiceFlotante.png)
+
+[Indice](#indice)
 
 ### Boton de ayuda
 
@@ -75,13 +83,13 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ![Imagenes/filtrorelacional.png](Imagenes/filtrorelacional.png)
 
+[Indice](#indice)
+
 ## 3. Indicadores tarjetas
 
 ### Gestión por mes
 
 ![Imagenes/medicion1.png](Imagenes/medicion1.png)
-
-**MEDICIONES:**
 
 **Gestión x Cliente:** Gestiones realizadas al cliente por parte del asesor.
 
@@ -105,6 +113,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 **% Efect. Contacto:** Llamadas del asesor que confirma un contacto con el titular.
 
+[Indice](#indice)
 
 ## 4. Indicadores graficos
 
@@ -118,25 +127,37 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 **Créditos Reducen Capital Por Año Desembolso:** Clientes que han reducido su Capital desde el año de desembolso
 
+[Indice](#indice)
+
 ### Gestión por valor desembolsos
 
 ![Imagenes/gestionporvalordesembolsos.png](Imagenes/gestionporvalordesembolsos.png)
+
+[Indice](#indice)
 
 ### Gestión por mora inicial mes / por sucursal
 
 ![Imagenes/gestionpormorainicialmes.png](Imagenes/gestionpormorainicialmes.png)
 
+[Indice](#indice)
+
 ### Gestión por tipo identificación / capital inicio mes
 
 ![Imagenes/gestionportipoidentificaciónycapitaliniciomes.png](Imagenes/gestionportipoidentificaciónycapitaliniciomes.png)
+
+[Indice](#indice)
 
 ### Gestión por tipo de alivio / por marca vehículo
 
 ![Imagenes/gestionporalivioyvehiculo.png](Imagenes/gestionporalivioyvehiculo.png)
 
+[Indice](#indice)
+
 ### Gestión por producto / por tipo de prestamo
 
 ![Imagenes/gestionporproductoyprestamo.png](Imagenes/gestionporproductoyprestamo.png)
+
+[Indice](#indice)
 
 ### Mejor gestión
 
@@ -146,9 +167,11 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 **Cliente reduce capital  por Mejor Gestión:** La cantidad de créditos que se han gestionado su respectiva mejor tipología y que han reducido su capital según la fecha filtrada (Rango Y).
 
-**Valor Pago por Mejor Gestión :**El valor de pago a cuotas que registran con esa tipología de mejor gestión del asesor, para saber de que tipo de gestión fue que entró el pago
+**Valor Pago por Mejor Gestión :** El valor de pago a cuotas que registran con esa tipología de mejor gestión del asesor, para saber de que tipo de gestión fue que entró el pago
 
 ![Imagenes/gestionpormejor.png](Imagenes/gestionpormejor.png)
+
+[Indice](#indice)
 
 ### Mapa de calor y efectividad
 
@@ -163,6 +186,8 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 *Nota:* Es importante tener en cuenta que estos calendarios funciona solo si se filtra mes único, no varios meses
 
 ![Imagenes/gestionasesormapasdecalor.png](Imagenes/gestionasesormapasdecalor.png)
+
+[Indice](#indice)
 
 ### Gestión por asesor
 
@@ -205,6 +230,8 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 **Valor pago Acuerdo:** Pagos  de acuerdos (pagos totales aplicados)
 
 ![Imagenes/gestionasesorporasesor.png](Imagenes/gestionasesorporasesor.png)
+
+[Indice](#indice)
 
 ### Gestión por canal y franja
 
@@ -252,9 +279,12 @@ En esta matriz se podrán observar por día de la semana y franja horaria la ges
 
 **Valor pago Acuerdo:** Pagos Totales pero aplicado a los clientes que han sido negociados (solo se reflejan los que cuentan con gestión asesor).
 
-
 ![Imagenes/gestionasesorporcanalyfranja.png](Imagenes/gestionasesorporcanalyfranja.png)
+
+[Indice](#indice)
 
 ### FIN
 
 ![Imagenes/gracias.png](Imagenes/gracias.png)
+
+[Indice](#indice)
