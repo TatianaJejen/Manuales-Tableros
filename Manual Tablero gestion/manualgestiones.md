@@ -288,5 +288,7 @@ En esta matriz se podrán observar por día de la semana y franja horaria la ges
 Para sugerencias,dudas o peticiones contactar a los siguientes correos (Equipo IA DataPro):
 
 *angie.jejen@finanzauto.com.co*
+
 *adan.espinosa@finanzauto.com.co*
+
 **2023 © DataPro**
