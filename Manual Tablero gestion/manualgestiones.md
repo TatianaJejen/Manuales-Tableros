@@ -63,6 +63,8 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ![Imagenes/botondeayuda.png](Imagenes/botondeayuda.png)
 
+[Indice](#indice)
+
 ### Filtro relacional
 
 **Primer Recuadro:** Se podrá seleccionar un rango de meses “Último”, igualmente se puede seleccionar la opción “Este” para referenciar fecha o mes actual. Evitar usar la opción “Siguiente”.
