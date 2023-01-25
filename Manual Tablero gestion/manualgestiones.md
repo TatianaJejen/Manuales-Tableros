@@ -27,6 +27,7 @@
     - [Mapa de calor y efectividad](#mapa-de-calor-y-efectividad)
     - [Gestión por asesor](#gestión-por-asesor)
     - [Gestión por canal y franja](#gestión-por-canal-y-franja)
+  - [5. Contacto](#5-contacto)
 
 ## 1. Recursos
 
@@ -281,3 +282,11 @@ En esta matriz se podrán observar por día de la semana y franja horaria la ges
 ![Imagenes/gestionasesorporcanalyfranja.png](Imagenes/gestionasesorporcanalyfranja.png)
 
 [Indice](#indice)
+
+## 5. Contacto
+
+Para sugerencias,dudas o peticiones contactar a los siguientes correos (Equipo IA DataPro):
+
+*angie.jejen@finanzauto.com.co*
+*adan.espinosa@finanzauto.com.co*
+**2023 © DataPro**
