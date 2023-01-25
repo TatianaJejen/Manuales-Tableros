@@ -27,7 +27,6 @@
     - [Mapa de calor y efectividad](#mapa-de-calor-y-efectividad)
     - [Gestión por asesor](#gestión-por-asesor)
     - [Gestión por canal y franja](#gestión-por-canal-y-franja)
-    - [FIN](#fin)
 
 ## 1. Recursos
 
@@ -280,11 +279,5 @@ En esta matriz se podrán observar por día de la semana y franja horaria la ges
 **Valor pago Acuerdo:** Pagos Totales pero aplicado a los clientes que han sido negociados (solo se reflejan los que cuentan con gestión asesor).
 
 ![Imagenes/gestionasesorporcanalyfranja.png](Imagenes/gestionasesorporcanalyfranja.png)
-
-[Indice](#indice)
-
-### FIN
-
-![Imagenes/gracias.png](Imagenes/gracias.png)
 
 [Indice](#indice)
