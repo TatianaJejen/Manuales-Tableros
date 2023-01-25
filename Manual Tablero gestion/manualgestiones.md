@@ -292,4 +292,4 @@ Para sugerencias,dudas o peticiones contactar a los siguientes correos (Equipo I
 *adan.espinosa@finanzauto.com.co*
 
 
-                                                    **2023 © DataPro**
+                                                    2023 © DataPro
