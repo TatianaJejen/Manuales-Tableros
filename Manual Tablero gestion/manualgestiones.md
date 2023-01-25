@@ -42,7 +42,9 @@
 ### Dimensión de variables
 
 -Optimización de intervalos, focos y prácticas de gestión y ejecución por temporalidades.
+
 -Descripción de variables de ejecución, comportamiento y otros factores de la gestión en controlnext
+
 -Medición y retroalimentación de focos, gestores y canales de mayor eficiencia y efectividad (comportamiento variables Score asignación C-Universe).
 
 ![Imagenes/dimensiondevariables.png](Imagenes/dimensiondevariables.png)
