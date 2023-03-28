@@ -75,7 +75,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ### Filtro relacional
 
-**- Primer Recuadro:** Se podrá seleccionar un rango de meses “Último”, igualmente se puede seleccionar la opción “Este” para referenciar fecha o mes actual. Evitar usar la opción “Siguiente”.
+**- Primer Recuadro:** Se podrá seleccionar un rango de meses “Último”, igualmente se puede seleccionar la opción “Este” para referenciar fecha o mes actual.  Evitar usar la opción “Siguiente”.
 
 **- Segundo Recuadro:** Escribiendo un número se podrá seleccionar la temporalidad a consultar.
 
