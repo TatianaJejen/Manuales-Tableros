@@ -48,181 +48,33 @@
   
 ![Alt text](image-1.png)
 
-### Con que elementos se tendra interactividad las macros
+### Con que elementos podrían tener interactividad las macros
 
 ![Alt text](image-3.png)
 
 ## 4. Que es una Macro
 
-- Una macro es un fragmento de código VBA que se puede ejecutar cuando sea necesario, existen macros grabadas y escritas en código desde 0 la diferencia de estas dos es que la primera al ser grabada se convierte en solo una serie de pasos cortos de comandos en cambio a la segunda ya le podremos integrar mayor lógica y condiciones adicionales.
-
-**- Efectividad Contacto Por Año Desembolso:** Gestiones realizadas al cliente por parte del asesor.
-
-**- Efectividad Negociación Por Año Desembolso:** Negociaciones según la fecha realizadas a cliente con ese año de desembolso.
-
-**- Efectividad Pago Capital Por Año Desembolso:** Efectividad de pago de cliente con ese año de desembolso.
-
-**- Efectividad Pago Cobrado Por Año Desembolso:** Efectividad de pago cobrado por cliente con ese año de desembolso.
-
-**- Créditos Reducen Capital Por Año Desembolso:** Clientes que han reducido su Capital desde el año de desembolso
+- Una macro es un fragmento de código VBA que se puede ejecutar cuando sea necesario, existen macros grabadas y escritas en código desde 0, la diferencia de estas dos es que la primera al ser grabada se convierte en solo una serie de pasos cortos de comandos, en cambio a la segunda ya le podremos integrar mayor lógica y condiciones adicionales.
 
 [Indice](#indice)
 
-### Gestión por valor desembolsos
+## 5. Tipos de archivos
 
-![Imagenes/gestionporvalordesembolsos.png](Imagenes/gestionporvalordesembolsos.png)
+![Alt text](image-9.png)
 
-[Indice](#indice)
 
-### Gestión por mora inicial mes / por sucursal
+![Alt text](image-4.png)
 
-![Imagenes/gestionpormorainicialmes.png](Imagenes/gestionpormorainicialmes.png)
+![Alt text](image-5.png)
 
-[Indice](#indice)
 
-### Gestión por tipo identificación / capital inicio mes
+![Alt text](image-6.png)
 
-![Imagenes/gestionportipoidentificaciónycapitaliniciomes.png](Imagenes/gestionportipoidentificaciónycapitaliniciomes.png)
 
-[Indice](#indice)
+![Alt text](image-7.png)
 
-### Gestión por tipo de alivio / por marca vehículo
 
-![Imagenes/gestionporalivioyvehiculo.png](Imagenes/gestionporalivioyvehiculo.png)
-
-[Indice](#indice)
-
-### Gestión por producto / por tipo de prestamo
-
-![Imagenes/gestionporproductoyprestamo.png](Imagenes/gestionporproductoyprestamo.png)
-
-[Indice](#indice)
-
-### Mejor gestión
-
-**- Cantidad Créditos por Mejor Gestión:** Son  la cantidad de créditos que han tenido como mejor gestión  cada una de las siguientes tipificaciones (Rango Y).
-
-**- Valor capital por Mejor Gestión :** El valor capital de los créditos que se han gestionado y su respectiva mejor tipología (Rango Y).
-
-**- Cliente reduce capital  por Mejor Gestión:** La cantidad de créditos que se han gestionado su respectiva mejor tipología y que han reducido su capital según la fecha filtrada (Rango Y).
-
-**- Valor Pago por Mejor Gestión :** El valor de pago a cuotas que registran con esa tipología de mejor gestión del asesor, para saber de que tipo de gestión fue que entró el pago
-
-![Imagenes/gestionpormejor.png](Imagenes/gestionpormejor.png)
-
-[Indice](#indice)
-
-### Mapa de calor y efectividad
-
-**- % Efect.Contacto Por Fecha:** Porcentaje de Contacto por fecha.
-
-**- % Efect.Negociación Por Fecha:** Porcentaje de negociación por fecha.
-
-**- % Efect.Pago Acuerdo por Semana Año:** Porcentaje de los pagos de los acuerdos realizados por semana.
-
-**- Mapa de Calor :** Son los porcentajes de contacto y negociación de los créditos  según días calendario de la fecha filtrada, estos indicadores cuentan con formato condicional que nos indicaran en rojo los días que fueron menos efectivos y en verde los más efectivos.
-
-*Nota:* Es importante tener en cuenta que estos calendarios funciona solo si se filtra mes único, no varios meses
-
-![Imagenes/gestionasesormapasdecalor.png](Imagenes/gestionasesormapasdecalor.png)
-
-[Indice](#indice)
-
-### Gestión por asesor
-
-**- Filtro por indicadores temporales:** Línea de tiempo por meses, esta puede ser modificada para seleccionar un campo específico de días que no interrumpa el espacio entre tablas dinámicas.
-
-**- Filtro por Rangos:** Sucursal, Tipo Alivio, Producto y Mora Inicial
-
-**- Tiempo Conversación:** Tiempo total de gestión de llamadas   (tipificación, llamada, observaciones).
-
-**- TMO Promedio:** Tiempo promedio de una gestión.
-
-**- Gestión:** Cantidad de registros tipificados
-
-**- Clientes Gestión:** Cantidad de registros tipificados por titular
-
-**- Cuentas Gestión:** Cantidad de registros tipificados por crédito
-
-**- Teléfono Gestión:** Total de teléfonos gestionados por el asesor.
-
-**- Contacto:** Llamadas que tiene contactos efectivos con titular
-
-**- Cuenta Contacto:** Llamadas que tiene contactos efectivos con titular por crédito
-
-**- %Contacto:** Total llamadas en porcentaje  donde se tiene contacto efectivo con el titular
-
-**- Negociación:** Llamadas donde se realiza un acuerdo de pago con el cliente
-
-**- Cuenta Negociación:** Llamadas donde se realiza un acuerdo de pago por crédito
-
-**- %Negociación:** Total llamadas en porcentaje donde se realiza un acuerdo de pago con el cliente
-
-**- Valor pago Total:** pagos aplicados a Capital intereses y otro
-
-**- Valor pago Capital:** Pagos aplicados a capital
-
-**- Valor pago Cobro:** Pagos aplicados a valor vencido o cuota
-
-**- Valor pago Contacto:** Pagos con contacto efectivo (pagos totales aplicados)
-
-**- Valor pago Acuerdo:** Pagos  de acuerdos (pagos totales aplicados)
-
-![Imagenes/gestionasesorporasesor.png](Imagenes/gestionasesorporasesor.png)
-
-[Indice](#indice)
-
-### Gestión por canal y franja
-
-En esta matriz se podrán observar por día de la semana y franja horaria la gestión de asesores por canal como los siguientes indicadores :
-
-**- Tiempo Conversación:** Tiempo total de gestión de llamadas   (tipificación, llamada, observaciones).
-
-**- WhatsApp Envío – Gestión:** Gestiones outbound en las que se genero un registro de tipificación.
-
-**- WhatsApp Envío – Contacto:** Gestiones outbound  tipificadas como contacto con titular.
-
-**- WhatsApp Envío – Negociación:** Gestiones outbound tipificadas como negociación con titular.
-
-**- WhatsApp Recibido – Gestión:** Gestiones inbound en las que se genero un registro de tipificación.
-
-**- WhatsApp Recibido – Contacto:** Gestiones inbound tipificadas como contacto con titular.
-
-**- WhatsApp Recibido – Negociación:** Gestiones inbound tipificadas como negociación con titular.
-
-**- Hacer Llamada- Gestión:** llamadas outbound en las que se genero un registro de tipificación.
-
-**- Hacer Llamada- Contacto :** llamadas outbound tipificadas como contacto con titular.
-
-**- Hacer Llamada- Negociación :** llamadas outbound tipificadas como negociación con titular.
-
-**- Recibir Llamada- Gestión:** llamadas inbound en las que se genero un registro de tipificación.
-
-**- Recibir Llamada- Contacto :** llamadas inbound tipificadas como contacto con titular.
-
-**- Recibir Llamada- Negociación :** llamadas inbound tipificadas como negociación con titular.
-
-**- Solicitud Visita – Gestión:**  Gestiones que registran tipificación de solicitud de visita por parte del titular.
-
-**- Solicitud Visita – Contacto:** Gestiones que registran tipificación de contacto y solicitud de visita por parte del titular.
-
-**- Solicitud Visita – Negociación:** Gestiones que registran tipificación negociación y solicitud de visita por parte del titular.
-
-**- Valor pago Total:**  La sumas de pagos Capital, intereses y seguros (solo se reflejan los que cuentan con gestión asesor).
-
-**- Valor pago Capital:** Pagos aplicados solo a capital (solo se reflejan los que cuentan con gestión asesor).
-
-**- Valor pago Cobro:**  Pagos  aplicados a saldo vencido o cuota mes (solo se reflejan los que cuentan con gestión asesor).
-
-**- Valor pago Contacto:**  Pagos Totales pero aplicado a los clientes que han sido contactados (solo se reflejan los que cuentan con gestión asesor).
-
-**- Valor pago Acuerdo:** Pagos Totales pero aplicado a los clientes que han sido negociados (solo se reflejan los que cuentan con gestión asesor).
-
-![Imagenes/gestionasesorporcanalyfranja.png](Imagenes/gestionasesorporcanalyfranja.png)
-
-[Indice](#indice)
-
-## 5. Contacto
+![Alt text](image-8.png)
 
 Para sugerencias,dudas o peticiones contactar a los siguientes correos (Equipo IA DataPro):
 
