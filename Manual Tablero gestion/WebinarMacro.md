@@ -126,11 +126,34 @@ ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
 
 - Esta referencia la utilizaremos si queremos que la macro se ejecute en una celda en especifico junto con su resultado. 
 
+![badge](Imagenes/referenciaabsoluta.gif)
+
 ## Referencia Relativa:
 
 - Esta referencia la utilizaremos si queremos que la macro se ejecute en cualquier rango o celda que selecionemos.
 
-![badge](Imagenes/prueba.gif)
+![badge](Imagenes/referenciarelativa.gif)
+
+- En el siguiente video se podra visualizar la diferencias entre estas dos opciones y el porque cada una podria aplicar para diferentes casos.
+
+- En los videos anteriores donde veiamos como crear cada referencia se veia el proceso pero al mirar este ejemplo podemos ver que si le adicionara dos columnas más a la base y ejecutara la sentencia absoluta sobre escibiria mis datos ya que al grabarla de esta manera la macro entiende que siempre tendra que poner el total en la misma celda en este caso E5 en cambio al ejecutar la relativa podremos observar que este total siempre quedara una columa despues de la base ya que al tomarla como relativa se le indica un valor de rango en este caso es que siempre se ejecute una fila despues de la ultima columna de la base (No se le condicona una celda donde deba ejecutarse por obligación).
+
+![badge](Imagenes/diferenciaentrereferencias.gif)
+
+## 9. Primer Caso de Uso
+
+- en este caso se grabara una macro con referencia absoluta para mostrar algunas maneras de como ejecutarlas
+
+
+![badge](Imagenes/prueba.mp4)
+
+
+
+
+
+
+
+
 
 
 
