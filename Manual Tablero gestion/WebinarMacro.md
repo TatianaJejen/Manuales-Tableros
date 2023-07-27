@@ -141,6 +141,11 @@ ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
 
 
 
+
+
+
+
+
 ![Alt text](image-9.png)
 
 
