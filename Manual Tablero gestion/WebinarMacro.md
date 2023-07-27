@@ -60,6 +60,45 @@
 
 ## 5. Tipos de archivos
 
+- contamos con tres tipos de extenciones para los archivos de excel, la primera extención es en la que se guardan libros de la version 2003 conocida como .xls, para una mejor seguridad y buenas practicas apartir del 2007 en adelante se realizo la separacion de los paquetes de macros con el resto de los paquetes generando asi dos nuevas extenciones la .xlsx que es la de documentos que guardamos actualmente y la .xlsm que hacen referencia a los libros que contienen macros.
+
+###  Configurar Pestaña Programador 
+
+- Antes de iniciar con nuestro tema de macros debemos activar la pestaña en el ribbon donde estan las herramientas que se usaran para este tema, el paso a paso sera lo mismo para todas las versiones, lo unico que cambiara es que en la version del 2013 esta pestaña no se llama programador si no desarollador.
+
+![Alt text](image-11.png)
+
+- Pasos para activar la pestaña programador:
+
+![Alt text](image-12.png)
+
+![Alt text](image-14.png)
+
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
+
+## 6. Seguridad de Macros
+
+- Antes de habilitar un documento macro debemos verificar que venga de un origen seguro ya que al usar el lenguaje VBA puede tener virus malicioso, antes de habilitamos contenido,opciones avanzadas en archivo, configuración centro de confianza, barras de mensajes, mostrar la barra de mensajes, opción configuración de macros.
+
+Par mayor seguridad al momento de manejar macros debemos asegurarnos que estas ocpiones esten habilitadas en la opcion de seguridad con el fin de evitar que se ejecuten comandos o codigos no aprobados.
+
+![Alt text](image-17.png)
+
+![Alt text](image-18.png)
+
+ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
+
+![Alt text](image-19.png)
+
+![Alt text](image-20.png)
+
+
+
+
+
+
 ![Alt text](image-9.png)
 
 
