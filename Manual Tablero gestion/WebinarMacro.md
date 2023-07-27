@@ -95,6 +95,48 @@ ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
 ![Alt text](image-20.png)
 
 
+## 7. Grabadora de Macros
+
+- Es la herramienta que nos permite grabar los comandos o acciones que deseamos ejecutar en cualquier momento
+
+![Alt text](image-21.png)
+
+- Cuando seleccionamos la opcion grabar macro nos aparecera la opcion de Nombre de la macro, método abreviado, guardar macro y la parte de la descripción
+
+![Alt text](image-22.png)
+
+### Nombre:
+- podemos colocar e nombre de nuestra preferencia se recomienda que sea un nombre corto que resuma que accion final tiene la acro, no puede contener espacios ni caracteres especiales.
+
+### Método abreviado:
+- Es una manera de activar nuestras macros por medio de comandos para hacer mucho más rapida su ejecucion, se recomienda no colocar funciones simples ( ctrl + (letra) ) ya que como excel cuenta con varios comandos por defecto podria ser sobre escribitos por las macros, procurar usar comandos adicionando la tecla shift para que el resultado final sea (ctrl + mayús + (letra))
+
+### Guardar Macro
+
+- Esta es la opcion que nos permite configurar las macros para que se puedan ejecutar sea en libros nuevos, unicamente en un libro especifico o en cualquier libro de excel que tengamos.
+
+![Alt text](image-23.png)
+
+
+## 8. Tipos de referencias
+
+- Existen dos tipos de referencias: relativas y absolutas. Las referencias relativas cambian cuando se copian de una celda a otra. Por otra parte, las referencias absolutas se mantienen constantes sin importar la celda en que se copien.
+
+### Referencia Absoluta:
+
+- Esta referencia la utilizaremos si queremos que la macro se ejecute en una celda en especifico junto con su resultado. 
+
+## Referencia Relativa:
+
+- Esta referencia la utilizaremos si queremos que la macro se ejecute en cualquier rango o celda que selecionemos.
+
+![badge](Imagenes/prueba.gif)
+
+
+
+
+
+
 
 
 
