@@ -128,7 +128,7 @@ ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
 
 ![badge](Imagenes/referenciaabsoluta.gif)
 
-## Referencia Relativa:
+### Referencia Relativa:
 
 - Esta referencia la utilizaremos si queremos que la macro se ejecute en cualquier rango o celda que selecionemos.
 
@@ -140,12 +140,99 @@ ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
 
 ![badge](Imagenes/diferenciaentrereferencias.gif)
 
-## 9. Primer Caso de Uso
+## 9. Maneras de ejecutar macros
 
-- en este caso se grabara una macro con referencia absoluta para mostrar algunas maneras de como ejecutarlas
+Tenemos Varias opciones para poder ejecutar nuestras macros algunas de ellas son:
+
+- La primera opcion es con la que hemos trabajado normalmente, atravez de nuestra pestaña programador podremos acceder a la opcion de macros señecionar la que deseamos y seleccionamos la opcion ejecutar.
+
+![Alt text](image-24.png)
+
+- La segunda opcion puede ser un procedimiento similar al anterior en el que seleccionamos la pestaña vista y despues la opcion de macros señecionar la que deseamos y seleccionamos la opcion ejecutar.
+
+![Alt text](image-25.png)
+
+- Para nuestra tercera opcion tenemos los comandos del teclado que podemos configurar cuando vamos a grabar la macro.
+
+![Alt text](image-26.png)
+
+- Si la macro es para la automatizacion de una tarea recurrente lo que podemos crear es un acceso rapido este se puede configurar ingresando por la pestaña archivos - opciones - Barra de herramientas de acceso rapido - selecionamos en comandos disponibbles (macros) - selecionamos la macro que queremos que quede para ajecución - selecionamos agregar y podemos configurarla para colocarle el icono o simbolo que deseamos y por ultimo aceptar.
+
+![badge](Imagenes/EjecutarMacro4.gif)
+
+- Otra manera de Organizar nuestras Macros y ejecutarlas en un mejor orden es configurar la cinta de opciones (Ribbon) para poder crear una pestaña solo para nuestras macros o accesos rapido que usemos más frecuentes y esta activacion se puede realizar ce una forma muy parecida a la anterior ingresando por la pestaña archivos - opciones - personalizar cinta de opciones- en la parte de la derecha seleccionamos el boton nueva pestaña, le asignamos un nombre y en la parte izquierda en comando disponibles selecionamos la opcion de macros - selecionamos la macro que deseamos que se  ejecute - selecionamos agregar y por ultimo aceptar.
+
+![badge](Imagenes/EjecutarMacro5.gif)
 
 
-![badge](Imagenes/prueba.mp4)
+-Por ultimo tenemos la opcion que se ejecute mediante una figura,forma o boton esta alternativa es muy practica cuando deseamos realizar formularios o diseños practicos de reporeria para que sea más facil de ejecutar para el usuario final que consumira el reporte
+
+
+![badge](Imagenes/EjecutarMacro6y7.gif)
+
+
+## 10. Primer Caso de Uso
+
+- En este caso se grabara una macro con referencia absoluta para mostrar como ejecuta los comandos exactamente como nosotros los realizamos, es importante tener en cuenta que estos pasos deben estar bien estructurados.
+
+![badge](Imagenes/PrimerCasodeUso.gif)
+
+## 11. Primer Caso de Uso
+
+- En este proyecto grabaremos una macro con la convinación de referencia absoluta y relativa para mostrar como podemos hacer que los datos de una hoja pasen a otra y vayan quedando almacenados en forma tabular quiere decir en filas y columnas como las bases de datos.
+
+Sede teneren cuenta que cuando se realizan procesos con la referencia relativa en mejor utilizar comandos de teclado para grabar los pasos, por ejemplo cuando pasamos a la segunda hoja a pegar los datos para que se seleccione la celda dejado de titulo utilizamos ctrl+(flecha hacia abajo) y luego nuevamente flecha hacia abajo.
+
+![badge](Imagenes/SegundoCasodeUso.gif)
+
+
+### 12. VBA
+
+
+![Alt text](image-27.png)
+
+
+### 12. VBE
+
+El editor de VBE lo podemos activar mediante la opcion que esta ne la pestaña programador llamada Visual Basic o por el comando Alt + F11
+
+
+![Alt text](image-28.png)
+
+### 13. Modelos de Objetos en Excel, Propiedades y Metodos 
+
+## Objetos en Excel: 
+
+*-* Workbook:  Libro o documento en el que estamos trabajando.
+
+*-* Worksheet: Hoja  en la que se esta trabajando.
+
+*-* Range/Cell: rango o celda.
+
+
+![Alt text](image-29.png)
+
+Es muy importante saber que en el momento que se esta ya digitando el codigo despues de cada objeto debe ir el signo del punto (.)
+
+Ejemplo de Jerarquías de objetos, de lo particular a lo general
+
+Celdas:
+
+- Rabger("A1").Select
+
+## Modelos
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
