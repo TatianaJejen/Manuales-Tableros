@@ -216,9 +216,22 @@ Es muy importante saber que en el momento que se esta ya digitando el codigo des
 
 Ejemplo de Jerarquías de objetos, de lo particular a lo general
 
-Celdas:
+Hacer referencia a celdas:
 
 - Rabger("A1").Select
+
+ Hacer referencia a hoja y celda:
+
+- Worksheets("Hoja1").Range("A1").Select
+
+Referencia un archivo, hoja y celda:
+
+- WorkBooks("Libro1.xlsx").Worksheets("Hoja1").Range("A1").Select
+
+Referencia desde una aplicación
+
+- Application.WorkBooks("Libro1.xlsx").Worksheets("Hoja1").Range("A1").Select
+
 
 ## Modelos
 
