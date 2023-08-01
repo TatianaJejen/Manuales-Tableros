@@ -10,8 +10,8 @@
   - [1. ¿Por qué aprender macros?](#1-por-qué-aprender-macros)
   - [2. Requisitos Previos](#2-requisitos-previos)
   - [3. Que Tener en Cuenta al Crear una Macro](#3-que-tener-en-cuenta-al-crear-una-macro)
-    - [Gestión por mes](#gestión-por-mes)
-  - [4. Indicadores graficos](#4-indicadores-graficos)
+    - [Con que elementos podrían tener interactividad las macros](#Con-que-elementos-podrían-tener-interactividad-las-macros)
+  - [4. Que es una Macro](#4-que-es-una-macro)
     - [Gestión por valor desembolsos](#gestión-por-valor-desembolsos)
     - [Gestión por mora inicial mes / por sucursal](#gestión-por-mora-inicial-mes--por-sucursal)
     - [Gestión por tipo identificación / capital inicio mes](#gestión-por-tipo-identificación--capital-inicio-mes)
@@ -21,9 +21,21 @@
     - [Mapa de calor y efectividad](#mapa-de-calor-y-efectividad)
     - [Gestión por asesor](#gestión-por-asesor)
     - [Gestión por canal y franja](#gestión-por-canal-y-franja)
-  - [5. Contacto](#5-contacto)
+  - [5. Tipos de archivos](#5-tipos-de-archivos)
+    - [Configurar Pestaña Programador](#configurar-pestaña-programador)
+  - [6. Seguridad de Macros](#6-seguridad-de-macros)
+  - [7. Grabadora de Macros](#7grabadora-de-macros)
+  - [8. Tipos de referencias](#8-tipos-de-referencias)
+  - [9. Maneras de ejecutar macros](9.-maneras-de-ejecutar-macros)
+  - [10. Primer Caso de Uso](#10-primer-caso-de-uso)
+  - [11. Primer Caso de Uso](#11-primer-caso-de-uso)
+  - [12. VBA](#12-VBA)
+  - [13. VBE](#13-VBE)
+  - [14. Modelos de Objetos en Excel, Propiedades y Metodos](#14-modelos-de-objetos-en-excel-propiedades-y-Metodos)
+  - [15. Propiedades y Metodos más Usados en Excel](#15-propiedades-y-metodos-mas-usados-en-excel)
+  - [16. Ejempos de Validacion de Codigos](#16-ejempos-de-validacion-de-codigos)
 
-## 1. ¿Por qué aprender macros?
+# 1. ¿Por qué aprender macros?
 
 - Usuario en Excel avanzado Y quiera pasar al siguiente nivel.
   
@@ -34,7 +46,7 @@
 
 [Indice](#indice)
 
-## 2. Requisitos Previos
+# 2. Requisitos Previos
 
 - Manejar y conocer temas sobre celdas, Rangos, tablas, navegar entre hojas de cálculos y otros archivos.
 - Manejo del Ribbon de Excel (Menú o cinta de opciones).
@@ -42,7 +54,7 @@
 
 [Indice](#indice)
 
-## 3. Que Tener en Cuenta al Crear una Macro
+# 3. Que Tener en Cuenta al Crear una Macro
 
 - Las macros son un estilo de aplicaciones que se ejecutan mediante el lenguaje de VBA, antes de crear una macro se debe conocer para quien va dirigida y si es para un tercero debemos tener en cuenta:
   
@@ -52,13 +64,13 @@
 
 ![Alt text](image-3.png)
 
-## 4. Que es una Macro
+# 4. Que es una Macro
 
 - Una macro es un fragmento de código VBA que se puede ejecutar cuando sea necesario, existen macros grabadas y escritas en código desde 0, la diferencia de estas dos es que la primera al ser grabada se convierte en solo una serie de pasos cortos de comandos, en cambio a la segunda ya le podremos integrar mayor lógica y condiciones adicionales.
 
 [Indice](#indice)
 
-## 5. Tipos de archivos
+# 5. Tipos de archivos
 
 - contamos con tres tipos de extenciones para los archivos de excel, la primera extención es en la que se guardan libros de la version 2003 conocida como .xls, para una mejor seguridad y buenas practicas apartir del 2007 en adelante se realizo la separacion de los paquetes de macros con el resto de los paquetes generando asi dos nuevas extenciones la .xlsx que es la de documentos que guardamos actualmente y la .xlsm que hacen referencia a los libros que contienen macros.
 
@@ -78,7 +90,7 @@
 
 ![Alt text](image-16.png)
 
-## 6. Seguridad de Macros
+# 6. Seguridad de Macros
 
 - Antes de habilitar un documento macro debemos verificar que venga de un origen seguro ya que al usar el lenguaje VBA puede tener virus malicioso, antes de habilitamos contenido,opciones avanzadas en archivo, configuración centro de confianza, barras de mensajes, mostrar la barra de mensajes, opción configuración de macros.
 
@@ -95,7 +107,7 @@ ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
 ![Alt text](image-20.png)
 
 
-## 7. Grabadora de Macros
+# 7. Grabadora de Macros
 
 - Es la herramienta que nos permite grabar los comandos o acciones que deseamos ejecutar en cualquier momento
 
@@ -118,7 +130,7 @@ ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
 ![Alt text](image-23.png)
 
 
-## 8. Tipos de referencias
+# 8. Tipos de referencias
 
 - Existen dos tipos de referencias: relativas y absolutas. Las referencias relativas cambian cuando se copian de una celda a otra. Por otra parte, las referencias absolutas se mantienen constantes sin importar la celda en que se copien.
 
@@ -140,7 +152,7 @@ ActiveX:son los controles tipo boton,cuadro de texto y ComBoBox
 
 ![badge](Imagenes/diferenciaentrereferencias.gif)
 
-## 9. Maneras de ejecutar macros
+# 9. Maneras de ejecutar macros
 
 Tenemos Varias opciones para poder ejecutar nuestras macros algunas de ellas son:
 
@@ -171,13 +183,13 @@ Tenemos Varias opciones para poder ejecutar nuestras macros algunas de ellas son
 ![badge](Imagenes/EjecutarMacro6y7.gif)
 
 
-## 10. Primer Caso de Uso
+# 10. Primer Caso de Uso
 
 - En este caso se grabara una macro con referencia absoluta para mostrar como ejecuta los comandos exactamente como nosotros los realizamos, es importante tener en cuenta que estos pasos deben estar bien estructurados.
 
 ![badge](Imagenes/PrimerCasodeUso.gif)
 
-## 11. Primer Caso de Uso
+# 11. Primer Caso de Uso
 
 - En este proyecto grabaremos una macro con la convinación de referencia absoluta y relativa para mostrar como podemos hacer que los datos de una hoja pasen a otra y vayan quedando almacenados en forma tabular quiere decir en filas y columnas como las bases de datos.
 
@@ -186,22 +198,22 @@ Sede teneren cuenta que cuando se realizan procesos con la referencia relativa e
 ![badge](Imagenes/SegundoCasodeUso.gif)
 
 
-### 12. VBA
+# 12. VBA
 
 
 ![Alt text](image-27.png)
 
 
-### 12. VBE
+# 13. VBE
 
 El editor de VBE lo podemos activar mediante la opcion que esta ne la pestaña programador llamada Visual Basic o por el comando Alt + F11
 
 
 ![Alt text](image-28.png)
 
-### 13. Modelos de Objetos en Excel, Propiedades y Metodos 
+# 14. Modelos de Objetos en Excel, Propiedades y Metodos 
 
-## Objetos en Excel: 
+### Objetos en Excel: 
 
 *-* Workbook:  Libro o documento en el que estamos trabajando.
 
@@ -232,58 +244,79 @@ Referencia desde una aplicación
 
 - Application.WorkBooks("Libro1.xlsx").Worksheets("Hoja1").Range("A1").Select
 
-
-## Modelos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Alt text](image-9.png)
-
-
-![Alt text](image-4.png)
+### Ejemplo de Objetos:
 
 ![Alt text](image-5.png)
 
+### Propiedades y Metodos
+
+### Propiedades
+
+Las propiedades se pueden entender por las caracteristicas de los objetos, un ejemplo puede se un celular sus propiedades podrian ser tamaño, peso, color,pixeles,almacenamiento.... etc.
+
+### Metodos
+
+Los metodos se pueden entender por las acciones de los objetos, un ejemplo que podriamos usar como en el anterior podria ser el celular hacer llamadas, eviar mensajes, tomar fotos, abrir aplicaciones .... etc 
+
+
+### Ejemplo de Propiedades y Metodos
 
 ![Alt text](image-6.png)
 
+En la siguiente imagen podemos ver un ejemplo de como deberiamos llamar las propiedades o metodos en el lenguaje VBA en este caso el objto es SmartPhone seguido del signo punto (.) para llamar la propiedad o metodo
 
 ![Alt text](image-7.png)
 
+# 15. Propiedades y Metodos más Usados en Excel
 
 ![Alt text](image-8.png)
+
+### Ejemplos de aplicación de Propiedades y Metodos 
+
+![Alt text](image-31.png)
+
+
+![Alt text](image-32.png)
+
+
+En este ejemplo podemos ver como llamamos al objeto Application y con el signo punto le indicamos el siguiente objeto ThisWorkbook (Esta hoja) y la propiedad Name (nombre) quiere decir que queremos saber el nombre de la hoja actual que estamos editando
+
+
+*-* Nota: si queremos que la información aparezca e la consola inmediato debems utilizar Debug.Print o directamente escribir en esta funcion el fracmento del codigo iniciando con el signo de interogación (?) seguido de Application.ThisWorkbook.Name como se observa en la parte inferiror de la imagen 
+
+![Alt text](image-34.png)
+
+
+# 16. Ejempos de Validacion de Codigos 
+
+Para validar que hace un codigo lo que se puede es abri el VBE y ajustarla en la parte derecha que se pueda en la izquierda observar el libro donde se ejecuta la macro y mediante la techa F8 recore por fraccion de codigo que hace cada linea 
+
+![Alt text](image-35.png)
+
+
+![badge](Imagenes/validacióndemacros.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Para sugerencias,dudas o peticiones contactar a los siguientes correos (Equipo IA DataPro):
 
