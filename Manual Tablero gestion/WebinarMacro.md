@@ -75,7 +75,7 @@
 - contamos con tres tipos de extenciones para los archivos de excel, la primera extención es en la que se guardan libros de la version 2003 conocida como .xls, para una mejor seguridad y buenas practicas apartir del 2007 en adelante se realizo la separacion de los paquetes de macros con el resto de los paquetes generando asi dos nuevas extenciones la .xlsx que es la de documentos que guardamos actualmente y la .xlsm que hacen referencia a los libros que contienen macros.
 
 ##  Configurar Pestaña Programador 
-#  Configurar Pestaña Programador
+###  Configurar Pestaña Programador
 - Antes de iniciar con nuestro tema de macros debemos activar la pestaña en el ribbon donde estan las herramientas que se usaran para este tema, el paso a paso sera lo mismo para todas las versiones, lo unico que cambiara es que en la version del 2013 esta pestaña no se llama programador si no desarollador.
 
 ![Alt text](image-11.png)
