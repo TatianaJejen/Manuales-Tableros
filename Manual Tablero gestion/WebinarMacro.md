@@ -85,6 +85,9 @@
 
 ![Alt text](image-16.png)
 
+[Índice](#Índice)
+
+
 # 6. Seguridad de Macros
 
 - Antes de habilitar un documento macro debemos verificar que venga de un origen seguro ya que al usar el lenguaje VBA puede tener virus malicioso, antes de habilitamos contenido, opciones avanzadas en archivo, configuración centro de confianza, barras de mensajes, mostrar la barra de mensajes, opción configuración de macros.
@@ -101,6 +104,8 @@ ActiveX: son los controles tipo botón, cuadro de texto y Combo Box
 ![Alt text](image-19.png)
 
 ![Alt text](image-20.png)
+
+[Índice](#Índice)
 
 
 # 7. Grabadora de Macros
@@ -126,6 +131,8 @@ ActiveX: son los controles tipo botón, cuadro de texto y Combo Box
 
 ![Alt text](image-23.png)
 
+[Índice](#Índice)
+
 
 # 8. Tipos de referencias
 
@@ -149,6 +156,8 @@ ActiveX: son los controles tipo botón, cuadro de texto y Combo Box
 
 
 ![badge](Imagenes/diferenciaentrereferencias.gif)
+
+[Índice](#Índice)
 
 # 9. Maneras de ejecutar macros
 
@@ -181,6 +190,8 @@ Tenemos Varias opciones para poder ejecutar nuestras macros algunas de ellas son
 
 ![badge](Imagenes/EjecutarMacro6y7.gif)
 
+[Índice](#Índice)
+
 
 # 10. Primer Caso de Uso
 
@@ -202,6 +213,7 @@ Se debe tener cuenta que cuando se realizan procesos con la referencia relativa 
 
 ![Alt text](image-27.png)
 
+[Índice](#Índice)
 
 # 13. VBE
 
@@ -265,6 +277,9 @@ Los métodos se pueden entender por las acciones de los objetos, un ejemplo que 
 En la siguiente imagen podemos ver un ejemplo de cómo deberíamos llamar las propiedades o métodos en el lenguaje VBA en este caso el objeto es Smartphone seguido del signo punto (.) para llamar la propiedad o método
 
 ![Alt text](image-7.png)
+
+[Índice](#Índice)
+
 
 # 15. Propiedades y Métodos más Usados en Excel
 
