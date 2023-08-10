@@ -1,5 +1,5 @@
 
-![badge](Imagenes/badge.webp)
+![badge](Imagenes/Logo_estratego_vetneg.webp)
 
 # Manual Reporte Masivos
 
@@ -85,21 +85,21 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ![Imagenes/medicion1.png](Imagenes/Tarjetasmasivosms.png)
 
-**- Total Mensajes:** Total mensajes enviados (un mensaje debe tener maximo 60 caracteres, desde el caracter 61 se contara como uno nuevo).
+**- Total Mensajes:** Total mensajes enviados (un mensaje debe tener máximo 60 caracteres, desde el carácter 61 se contará como uno nuevo).
 
-**- Total Gestiones:** Total de gestiones por dato del cargue
+**- Total Gestiones:** Total de gestiones por dato del cargue.
   
-**- Créditos Gestionados:** Total de creditos gestionados en el mes en curso
+**- Créditos Gestionados:** Total de créditos gestionados en el mes en curso.
   
 **- Créditos Contacto Causado:**  Créditos que generaron contacto entre los 3 días siguientes al envió del cargue.
   
-**- Créditos Pago Causado:** Créditos que generaron pago entre los 3 días siguientes al envió del cargue.
+**- Créditos Pago Causado:** Créditos que generaron pago en los 3 días siguientes al envió del cargue.
 
 ![Imagenes/medicion1.png](Imagenes/Tarjetasmasivosbots.png)
   
 **- Gestiones:** Total gestiones realizadas por cargue (se cuenta por dato).
 
-**- Créditos Gestiones:** Total de créditos unicos gestionados por cargue.
+**- Créditos Gestiones:** Total de créditos únicos gestionados por cargue.
   
 **- Total Tono:** Se entiende cuando se marca y timbra 4 veces (teléfono es útil)
   
@@ -113,31 +113,30 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoresmsresumen.png)
 
-### Indicadores graficos
+### Indicadores gráficos
 
-**- Intensidad Gestión:** Intensidad de sms que se envían por créditos (teléfonos/créditos).
+**- Intensidad Gestión:** Intensidad de SMS que se envían por créditos (teléfonos/créditos).
 
-**- %Efectividad Contacto:** Posibles contactos que se fomento por el envió de los sms ya que se tipifico como contacto entre los siguientes 3 días del envió.
+**- %Efectividad Contacto:** Posibles contactos que se fomentaron por él envió de los SMS, debido a que se tipifico como contacto entre los siguientes 3 días del envió.
   
-**- %Efectividad Acuerdo:** Posibles acuerdo que se fomento por el envió de los sms ya que se tipifico como promesa de pago entre los siguientes 3 días del envió.
+**- %Efectividad Acuerdo:** Posibles acuerdo que se fomentó por él envió de los SMS ya que se tipifico como promesa de pago entre los siguientes 3 días del envió.
   
-**- %Efectivcidad pago Cuota:** Posibles pago que se fomento por el envió de los sms ya que se realizo entre los siguientes 3 días del envió.
+**- %Efectivcidad pago Cuota:** Posibles pago que se fomentó por él envió de los SMS ya que se realizó entre los siguientes 3 días del envió.
 
 ### Resultado por Encargado de Envío
 
-Grafica de barras donde se podran visualizar 4 indicadores (gestion,contacto,negociación y pago) segun los encargados de cada envió
+Grafica de barras donde se podrán visualizar 4 indicadores (gestión, contacto, negociación y pago) según los encargados de cada envió.
 
 ### $ Capital Gestionado Vs %Efectividad Pago
 
-Se puede visualizar en esta grafica agrupada de columnas y lineas el valor capital gestionado comparado con el porcentaje de efectvidad de pago  por cada uno de los encargados de los cargues.
-
+Se puede visualizar en esta grafica agrupada de columnas y líneas el valor capital gestionado comparado con el porcentaje de efectividad de pago por cada uno de los encargados de los cargues.
 ### % Participación por filas de sms mora inicial vs final 
 
-En esta matriz se podra visualizar el porcentaje de participacion de los sms segun el rango de mora inicial comparado con la mora final.
+En esta matriz se podrá visualizar el porcentaje de participación de los SMS según el rango de mora inicial comparado con la mora final.
 
-### %Efectividad pago score
+### %Efectividad pago Score
 
-Porcentaje de efectvidad del posible pago que se tuvieron de los sms segun la participacion por cada uno de los tipos de riesgo.
+Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la participación por cada uno de los tipos de riesgo.
 
 [Indice](#indice)
 
@@ -145,31 +144,31 @@ Porcentaje de efectvidad del posible pago que se tuvieron de los sms segun la pa
 
 ![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoresmsresumenbot.png)
 
-### Indicadores graficos Bots
+### Indicadores gráficos Bots
 
-**- %Efectividad Tono:** Total gestiones realizadas por cargue (se cuenta por dato).
+**- % Efectividad Tono:** Total gestiones realizadas por cargue (se cuenta por dato).
 
-**- %Efectividad Contacto:** Total de créditos unicos gestionados por cargue.
+**- % Efectividad Contacto:** Total de créditos únicos gestionados por cargue.
   
-**- %Efectividad Acuerdo:** Se entiende cuando se marca y timbra 4 veces (teléfono es útil)
+**- % Efectividad Acuerdo:** Se entiende cuando se marca y timbra 4 veces (teléfono es útil).
   
-**- %Efectivcidad pago Cuota:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el callbot.
+**- % Efectivcidad pago Cuota:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el callbot.
 
 ### Resultados por Encargado Envío Bots
 
-Grafica de barras donde se podran visualizar 4 indicadores (Total Tono,Total contacto,acuerdo y pago) segun los encargados de cada envió.
+Grafica de barras donde se podrán visualizar 4 indicadores (Total Tono, Total contacto, acuerdo y pago) según los encargados de cada envió.
 
 ### $ Capital Gestionado Vs %Efectividad Pago Bots
 
-Se puede visualizar en esta grafica agrupada de columnas y lineas el valor capital gestionado comparado con el porcentaje de efectvidad de pago  por cada uno de los encargados de los cargues.
+Se puede visualizar en esta grafica agrupada de columnas y líneas el valor capital gestionado comparado con el porcentaje de efectividad de pago por cada uno de los encargados de los cargues.
 
 ### % Participación por filas de sms mora inicial vs final Bots
 
-En esta matriz se podra visualizar el porcentaje de participacion de los sms segun el rango de mora inicial comparado con la mora final.
+En esta matriz se podrá visualizar el porcentaje de participación de los SMS según el rango de mora inicial comparado con la mora final.
 
-### %Efectividad pago score Bots
+### % Efectividad pago score Bots
 
-Porcentaje de efectvidad del posible pago que se tuvieron de los sms segun la participacion por cada uno de los tipos de riesgo.
+Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la participación por cada uno de los tipos de riesgo.
 
 [Indice](#indice)
 
@@ -177,41 +176,41 @@ Porcentaje de efectvidad del posible pago que se tuvieron de los sms segun la pa
 
 ![Imagenes/gestionasesorporasesor.png](Imagenes/smscampañasdiarias.png)
 
-**- Filtro por indicadores temporales:** Línea de tiempo por meses,días o semanas esta puede ser modificada para seleccionar un campo específico de días que no interrumpa el espacio entre tablas dinámicas.
+**- Filtro por indicadores temporales:** Línea de tiempo por meses, días o semanas esta puede ser modificada para seleccionar un campo específico de días que no interrumpa el espacio entre tablas dinámicas.
 
-**- Filtro por Encargados de Enviós:** Se puede filtrar la información para mostrar solo los cargues de coordinador o encargado de envio que se requiera.
+**- Filtro por Encargados de Envió:** Se puede filtrar la información para mostrar solo los cargues de coordinador o encargado de envío que se requiera.
 
-- **Campaña:** Nombre de la campaña que se carga, se puede evidenciar que la estructura del nombre esta conformada por fecha y encargado del cargue.
+- **Campaña:** Nombre de la campaña que se carga, se puede evidenciar que la estructura del nombre está conformada por fecha y encargado del cargue.
   
-- **Mensajes:** Cuantos sms salieron del cargue seleccionado.
+- **Mensajes:** Cuantos SMS salieron del cargue seleccionado.
   
-- **Créditos:** Cantidad de titulares que se relacionan en la base para envió de sms.
+- **Créditos:** Cantidad de titulares que se relacionan en la base para envió de SMS.
   
 - **$ Cuota:** Valor vencido a la fecha del cargue.
   
-- **Teléfonos:** Cantidad de teléfonos a los que se les enviaran los sms.
+- **Teléfonos:** Cantidad de teléfonos a los que se les enviaran los SMS.
   
-- **% Intensudad:** Intensidad de sms que se envían por créditos (teléfonos/créditos).
+- **% Intensudad:** Intensidad de SMS que se envían por créditos (teléfonos/créditos).
   
-- **Contactos:** Posible contacto que se fomento por el envió de los sms ya que se realizo entre los 3 días siguientes al envió.
+- **Contactos:** Posible contacto que se fomentó por él envió de los SMS ya que se realizó entre los 3 días siguientes al envió.
   
 - **% Contacto:** Porcentaje de contacto según el indicador anterior (contacto/créditos).
   
-- **Acuerdos:** Posible promesa de pago que se fomento por el envió de los sms ya que se realizo entre los 3 días siguientes al envió.
+- **Acuerdos:** Posible promesa de pago que se fomentó por él envió de los SMS ya que se realizó entre los 3 días siguientes al envió.
   
 - **% Acuerdo:** Porcentaje de promesas de pago según el indicador anterior (acuerdos/créditos).
   
-- **Crédito Pago:** Posible  cantidad de créditos que pagaron fomentados por el envió de los sms ya que se realizo entre los 3 días siguientes al envió.
+- **Crédito Pago:** Posible cantidad de créditos que pagaron fomentados por él envió de los SMS ya que se realizó entre los 3 días siguientes al envió.
   
-- **$ Mensajes Costo:** Costo de el cargue (cantidad de sms enviados * el costo unitario).
+- **$ Mensajes Costo:** Costo del cargue (cantidad de SMS enviados * el costo unitario).
   
-- **$ Cuota Pago:** Posible valor de pagos que se fomento por el envió de los sms ya que se realizo entre los 3 días siguientes al envió.
+- **$ Cuota Pago:** Posible valor de pagos que se fomentó por él envió de los SMS ya que se realizó entre los 3 días siguientes al envió.
   
 - **% Pago Cuota:** Porcentaje de pagos según el indicador anterior (valor del pago que realizaron/valor vencido a la fecha del cargue).
 
-### % Pago Día
+#### % Pago Día
 
-En este grafico de termómetro podremos visualizar como esta el porcentaje de pago al día.
+En este grafico de termómetro podremos visualizar como está el porcentaje de pago al día.
 
 [Indice](#indice)
 
@@ -219,37 +218,37 @@ En este grafico de termómetro podremos visualizar como esta el porcentaje de pa
 
 ![Imagenes/gestionasesorporcanalyfranja.png](Imagenes/botcampañasdiarias.png)
 
-**- Filtro por indicadores temporales:** Línea de tiempo por meses,días o semanas esta puede ser modificada para seleccionar un campo específico de días que no interrumpa el espacio entre tablas dinámicas.
+**- Filtro por indicadores temporales:** Línea de tiempo por meses, días o semanas esta puede ser modificada para seleccionar un campo específico de días que no interrumpa el espacio entre tablas dinámicas.
 
-**- Filtro por Encargados de Enviós:** Se puede filtrar la información para mostrar solo los cargues de coordinador o encargado de envio que se requiera.
+**- Filtro por Encargados de Envió:** Se puede filtrar la información para mostrar solo los cargues de coordinador o encargado de envío que se requiera.
 
-- **Campaña:** En este grafico de termómetro podremos visualizar como esta el porcentaje de pago al día.
-- **Créditos Gestionados:** Cantidad de créditos cargados por campaña 
-- **Cuota Gestionados:** Valor vencido a la fecha
-- **Duración Conversación:** Tiempo en llamada por las diferentes lineas (segundos).
-- **Gestiones:** Gestiones de los telénos cargados por cada campaña (se tienen en cuenta la remarcaciones)
-- **Tono:** Se entiende cuando se marca y timbra 4 veces (telefono es útil)
-- **Contactos:** Es la confirmación del tituñar cuando se solicita la verificción de su identidad en el callbot
-- **% Contactos:** Porcentajedel contacto segun indicador anterior (contacto/total tono)
-- **Acuerdo:** Créditos con promesa de pago en llamada
-- **% Acuerdo:** Porcentaje de créditos con promesa de pago segun indicador anterior (negociaciones/contactos)
+- **Campaña:** En este grafico de termómetro podremos visualizar como está el porcentaje de pago al día.
+- **Créditos Gestionados:** Cantidad de créditos cargados por campaña. 
+- **Cuota Gestionados:** Valor vencido a la fecha.
+- **Duración Conversación:** Tiempo en llamada por las diferentes líneas (segundos).
+- **Gestiones:** Gestiones de los teléfonos cargados por cada campaña (se tienen en cuenta las remarcaciones).
+- **Tono:** Se entiende cuando se marca y timbra 4 veces (teléfono es útil).
+- **Contactos:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el callbot.
+- **% Contactos:** Porcentaje del contacto según indicador anterior (contacto/total tono).
+- **Acuerdo:** Créditos con promesa de pago en llamada.
+- **% Acuerdo:** Porcentaje de créditos con promesa de pago según indicador anterior (negociaciones/contactos).
 - **Crédito Pago:** Cantidad de créditos que se les brindo la información por el canal del BOT y después de esta gestión pagaron en el transcurso del mes.
 - **Cuota Pago:** Valor total de los créditos del indicador anterior que pagaron después de brindarse la información por el canal del BOT y pagaron en el transcurso del mes.
 - **% Pago Cuota:** Porcentaje de pagos según el indicador anterior (valor del pago que realizaron/valor vencido).
 
-### % Pago Día Bots
+#### % Pago Día Bots
 
-En este grafico de termómetro podremos visualizar como esta el porcentaje de pago al día.
+En este grafico de termómetro podremos visualizar como está el porcentaje de pago al día.
   
 [Indice](#indice)
 
-## 5. Contacto
+## 8. Contacto
 
-Para sugerencias,dudas o peticiones contactar a el siguiente correo (Equipo IA DataPro):
+Para sugerencias,dudas o peticiones contactar a el siguiente correo:
 
 *turbot.ia@finanzauto.com.co*
 
 
 
 
-                                                    2023 © DataPro
+                                                    2023 © Estratego
