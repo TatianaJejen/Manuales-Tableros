@@ -1,5 +1,5 @@
 
-![badge](Imagenes/Logo_estratego_horneg.webp)
+![badge](Imagenes/Logo_estratego_vetneg.webp)
 
 # Manual Reporte Masivos
 
