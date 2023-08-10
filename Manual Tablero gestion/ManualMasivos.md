@@ -67,6 +67,8 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ![Imagenes/botondeayuda.png](Imagenes/Botonesmasivos.png)
 
+![badge](Imagenes/filtrosyflotantes.gif)
+
 [Indice](#indice)
 
 ### Filtro relacional
