@@ -61,9 +61,9 @@
 
 ## 2. Herramientas
 
-### Boton de ayuda
+### Botón de ayuda
 
-Se realiza la creación de marcadores por medio de botones para facilitar la interpretacion de indicadores y generar un acceso más rapido a la sección de filtros que se encuentra oculta para una mejor visualización de los datos.
+Se realiza la creación de marcadores por medio de botones para facilitar la interpretación de indicadores y generar un acceso más rápido a la sección de filtros que se encuentra oculta para una mejor visualización de los datos.
 
 ![Imagenes/botondeayuda.png](Imagenes/Botonesmasivos.png)
 
@@ -71,11 +71,11 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ### Filtro relacional
 
-**- Primer Recuadro:** Este filtro esta habilitado para vistas en especifico como lo son las campañas diaras que se envian tanto de SMS como de CallBots,se podrá seleccionar diferentes tipos de rangos sea por meses, semanas o días.Por ejemplo: De meses se puede seleccionar la opcion “Último”, igualmente se puede seleccionar la opción “Este” para referenciar fecha o mes actual.  Evitar usar la opción “Siguiente” ya que la informacion que se almacena es día vencido.
+**- Primer Recuadro:** Este filtro está habilitada para vistas en específico como lo son las campañas diarias que se envían tanto de SMS como de CallBots, se podrá seleccionar diferentes tipos de rangos sea por meses, semanas o días. Por ejemplo: De meses se puede seleccionar la opción “Último”, igualmente se puede seleccionar la opción “Este” para referenciar fecha o mes actual. Evitar usar la opción “Siguiente” ya que la información que se almacena es día vencido.
 
 **- Segundo Recuadro:** Escribiendo un número se podrá seleccionar la temporalidad a consultar.
 
-**- Tercer Recuadro:** Preferiblemente seleccionar la opción “ Meses”, aunque igualmente se pueden referenciar otras temporalidades.
+**- Tercer Recuadro:** Preferiblemente seleccionar la opción “Meses”, aunque igualmente se pueden referenciar otras temporalidades.
 
 ![Imagenes/filtrorelacional.png](Imagenes/filtrosmasivos.png)
 
