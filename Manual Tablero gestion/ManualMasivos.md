@@ -1,5 +1,5 @@
 
-![badge](Imagenes/Logo_estratego_vetneg.webp)
+![badge](Imagenes/Logo_estratego_horneg.webp)
 
 # Manual Reporte Masivos
 
@@ -244,7 +244,7 @@ En este grafico de termómetro podremos visualizar como está el porcentaje de p
 
 ## 8. Contacto
 
-Para sugerencias,dudas o peticiones contactar a el siguiente correo:
+Para sugerencias, dudas o peticiones contactar a el siguiente correo:
 
 *turbot.ia@finanzauto.com.co*
 
