@@ -83,7 +83,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ## 3. Indicadores tarjetas
 
-![Imagenes/medicion1.png](Imagenes/TarjetasmasivoSMS.png)
+![Imagenes/medicion1.png](Imagenes/Tarjetasmasivosms.png)
 
 **- Total Mensajes:** Total mensajes enviados (un mensaje debe tener máximo 60 caracteres, desde el carácter 61 se contará como uno nuevo).
 
@@ -142,7 +142,7 @@ Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la 
 
 ## 5. Bots-Resumen Mensual
 
-![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoreSMSresumenbot.png)
+![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoresmsresumenbot.png)
 
 ### Indicadores gráficos Bots
 
@@ -174,7 +174,7 @@ Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la 
 
 ## 6. SMS - Campañas Diarias
 
-![Imagenes/gestionasesorporasesor.png](Imagenes/SMScampañasdiarias.png)
+![Imagenes/gestionasesorporasesor.png](Imagenes/smscampañasdiarias.png)
 
 **- Filtro por indicadores temporales:** Línea de tiempo por meses, días o semanas esta puede ser modificada para seleccionar un campo específico de días que no interrumpa el espacio entre tablas dinámicas.
 
