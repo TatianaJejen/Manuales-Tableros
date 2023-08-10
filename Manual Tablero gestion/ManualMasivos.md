@@ -12,26 +12,26 @@
     - [Fuentes de trabajo](#fuentes-de-trabajo)
     - [Dimensión de variables](#dimensión-de-variables)
   - [2. Herramientas](#2-herramientas)
-    - [Boton de ayuda](#boton-de-ayuda)
+    - [Botón de ayuda](#botón-de-ayuda)
     - [Filtro relacional](#filtro-relacional)
   - [3. Indicadores tarjetas](#3-indicadores-tarjetas)
-  - [4. SMS-Resumen Mensual](#4-sms-resumen-mensual)
-    - [Indicadores graficos](#indicadores-graficos)
+  - [4. SMS-Resumen Mensual](#4-SMS-resumen-mensual)
+    - [Indicadores gráficos](#indicadores-gráficos)
     - [Resultado por Encargado de Envío](#resultado-por-encargado-de-envío)
-    - [$ Capital Gestionado Vs %Efectividad Pago](#-capital-gestionado-vs-efectividad-pago)
-    - [% Participación por filas de sms mora inicial vs final](#-participación-por-filas-de-sms-mora-inicial-vs-final)
-    - [%Efectividad pago score](#efectividad-pago-score)
-  - [5. BOTS-Resumen Mensual](#5-bots-resumen-mensual)
-    - [Indicadores graficos Bots](#indicadores-graficos-bots)
-    - [Resultados por Encargado Envío Bots](#resultados-por-encargado-envío-bots)
-    - [$ Capital Gestionado Vs %Efectividad Pago Bots](#-capital-gestionado-vs-efectividad-pago-bots)
-    - [% Participación por filas de sms mora inicial vs final Bots](#-participación-por-filas-de-sms-mora-inicial-vs-final-bots)
-    - [%Efectividad pago score Bots](#efectividad-pago-score-bots)
-  - [6. SMS - Campañas Diarias](#6-sms---campañas-diarias)
+    - [$ Capital Gestionado Vs % Efectividad Pago](#-capital-gestionado-vs-efectividad-pago)
+    - [% Participación por filas de SMS mora inicial vs final](#-participación-por-filas-de-SMS-mora-inicial-vs-final)
+    - [% Efectividad pago score](#efectividad-pago-score)
+  - [5. Bots-Resumen Mensual](#5-Bots-resumen-mensual)
+    - [Indicadores gráficos Bots](#indicadores-gráficos-Bots)
+    - [Resultados por Encargado Envío Bots](#resultados-por-encargado-envío-Bots)
+    - [$ Capital Gestionado Vs %Efectividad Pago Bots](#-capital-gestionado-vs-efectividad-pago-Bots)
+    - [% Participación por filas de SMS mora inicial vs final Bots](#-participación-por-filas-de-SMS-mora-inicial-vs-final-Bots)
+    - [% Efectividad pago Score Bots](#efectividad-pago-score-Bots)
+  - [6. SMS - Campañas Diarias](#6-SMS---campañas-diarias)
     - [% Pago Día](#-pago-día)
-  - [7. BOTS - Campañas Diarias](#7-bots---campañas-diarias)
-    - [% Pago Día Bots](#-pago-día-bots)
-  - [5. Contacto](#5-contacto)
+  - [7. Bots - Campañas Diarias](#7-Bots---campañas-diarias)
+    - [% Pago Día Bots](#-pago-día-Bots)
+  - [8. Contacto](#8-contacto)
 
 ## 1. Recursos
 
@@ -71,7 +71,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ### Filtro relacional
 
-**- Primer Recuadro:** Este filtro está habilitada para vistas en específico como lo son las campañas diarias que se envían tanto de SMS como de CallBots, se podrá seleccionar diferentes tipos de rangos sea por meses, semanas o días. Por ejemplo: De meses se puede seleccionar la opción “Último”, igualmente se puede seleccionar la opción “Este” para referenciar fecha o mes actual. Evitar usar la opción “Siguiente” ya que la información que se almacena es día vencido.
+**- Primer Recuadro:** Este filtro está habilitada para vistas en específico como lo son las campañas diarias que se envían tanto de SMS como de CallBotss, se podrá seleccionar diferentes tipos de rangos sea por meses, semanas o días. Por ejemplo: De meses se puede seleccionar la opción “Último”, igualmente se puede seleccionar la opción “Este” para referenciar fecha o mes actual. Evitar usar la opción “Siguiente” ya que la información que se almacena es día vencido.
 
 **- Segundo Recuadro:** Escribiendo un número se podrá seleccionar la temporalidad a consultar.
 
@@ -83,7 +83,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ## 3. Indicadores tarjetas
 
-![Imagenes/medicion1.png](Imagenes/Tarjetasmasivosms.png)
+![Imagenes/medicion1.png](Imagenes/TarjetasmasivoSMS.png)
 
 **- Total Mensajes:** Total mensajes enviados (un mensaje debe tener máximo 60 caracteres, desde el carácter 61 se contará como uno nuevo).
 
@@ -95,7 +95,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
   
 **- Créditos Pago Causado:** Créditos que generaron pago en los 3 días siguientes al envió del cargue.
 
-![Imagenes/medicion1.png](Imagenes/Tarjetasmasivosbots.png)
+![Imagenes/medicion1.png](Imagenes/TarjetasmasivosBots.png)
   
 **- Gestiones:** Total gestiones realizadas por cargue (se cuenta por dato).
 
@@ -103,7 +103,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
   
 **- Total Tono:** Se entiende cuando se marca y timbra 4 veces (teléfono es útil)
   
-**- Total Contacto:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el callbot.
+**- Total Contacto:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el CallBots.
 
 **- Total Acuerdos:** Créditos con Promesa de pago en llamada.
 
@@ -111,7 +111,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ## 4. SMS-Resumen Mensual
 
-![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoresmsresumen.png)
+![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoreSMSresumen.png)
 
 ### Indicadores gráficos
 
@@ -127,22 +127,22 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 Grafica de barras donde se podrán visualizar 4 indicadores (gestión, contacto, negociación y pago) según los encargados de cada envió.
 
-### $ Capital Gestionado Vs %Efectividad Pago
+### $ Capital Gestionado Vs % Efectividad Pago
 
 Se puede visualizar en esta grafica agrupada de columnas y líneas el valor capital gestionado comparado con el porcentaje de efectividad de pago por cada uno de los encargados de los cargues.
-### % Participación por filas de sms mora inicial vs final 
+### % Participación por filas de SMS mora inicial vs final 
 
 En esta matriz se podrá visualizar el porcentaje de participación de los SMS según el rango de mora inicial comparado con la mora final.
 
-### %Efectividad pago Score
+### % Efectividad pago Score
 
 Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la participación por cada uno de los tipos de riesgo.
 
 [Indice](#indice)
 
-## 5. BOTS-Resumen Mensual
+## 5. Bots-Resumen Mensual
 
-![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoresmsresumenbot.png)
+![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoreSMSresumenbot.png)
 
 ### Indicadores gráficos Bots
 
@@ -152,7 +152,7 @@ Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la 
   
 **- % Efectividad Acuerdo:** Se entiende cuando se marca y timbra 4 veces (teléfono es útil).
   
-**- % Efectivcidad pago Cuota:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el callbot.
+**- % Efectivcidad pago Cuota:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el CallBots.
 
 ### Resultados por Encargado Envío Bots
 
@@ -162,11 +162,11 @@ Grafica de barras donde se podrán visualizar 4 indicadores (Total Tono, Total c
 
 Se puede visualizar en esta grafica agrupada de columnas y líneas el valor capital gestionado comparado con el porcentaje de efectividad de pago por cada uno de los encargados de los cargues.
 
-### % Participación por filas de sms mora inicial vs final Bots
+### % Participación por filas de SMS mora inicial vs final Bots
 
 En esta matriz se podrá visualizar el porcentaje de participación de los SMS según el rango de mora inicial comparado con la mora final.
 
-### % Efectividad pago score Bots
+### % Efectividad pago Score Bots
 
 Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la participación por cada uno de los tipos de riesgo.
 
@@ -174,7 +174,7 @@ Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la 
 
 ## 6. SMS - Campañas Diarias
 
-![Imagenes/gestionasesorporasesor.png](Imagenes/smscampañasdiarias.png)
+![Imagenes/gestionasesorporasesor.png](Imagenes/SMScampañasdiarias.png)
 
 **- Filtro por indicadores temporales:** Línea de tiempo por meses, días o semanas esta puede ser modificada para seleccionar un campo específico de días que no interrumpa el espacio entre tablas dinámicas.
 
@@ -214,7 +214,7 @@ En este grafico de termómetro podremos visualizar como está el porcentaje de p
 
 [Indice](#indice)
 
-## 7. BOTS - Campañas Diarias
+## 7. Bots - Campañas Diarias
 
 ![Imagenes/gestionasesorporcanalyfranja.png](Imagenes/botcampañasdiarias.png)
 
@@ -228,7 +228,7 @@ En este grafico de termómetro podremos visualizar como está el porcentaje de p
 - **Duración Conversación:** Tiempo en llamada por las diferentes líneas (segundos).
 - **Gestiones:** Gestiones de los teléfonos cargados por cada campaña (se tienen en cuenta las remarcaciones).
 - **Tono:** Se entiende cuando se marca y timbra 4 veces (teléfono es útil).
-- **Contactos:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el callbot.
+- **Contactos:** Es la confirmación del titular cuando se solicita la verificación de su identidad en el CallBots.
 - **% Contactos:** Porcentaje del contacto según indicador anterior (contacto/total tono).
 - **Acuerdo:** Créditos con promesa de pago en llamada.
 - **% Acuerdo:** Porcentaje de créditos con promesa de pago según indicador anterior (negociaciones/contactos).
