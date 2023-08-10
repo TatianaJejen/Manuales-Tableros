@@ -1,5 +1,6 @@
 
-![badge](Imagenes/badge.webp)
+![badge](Imagenes/Logo_estratego_vetneg.webp)
+
 
 # Manual Reporte Gestores
 
