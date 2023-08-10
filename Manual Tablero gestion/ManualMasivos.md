@@ -95,7 +95,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
   
 **- Créditos Pago Causado:** Créditos que generaron pago en los 3 días siguientes al envió del cargue.
 
-![Imagenes/medicion1.png](Imagenes/TarjetasmasivosBots.png)
+![Imagenes/medicion1.png](Imagenes/Tarjetasmasivosbots.png)
   
 **- Gestiones:** Total gestiones realizadas por cargue (se cuenta por dato).
 
@@ -111,7 +111,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ## 4. SMS-Resumen Mensual
 
-![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoreSMSresumen.png)
+![Imagenes/gestionporalivioyvehiculo.png](Imagenes/indicadoresmsresumen.png)
 
 ### Indicadores gráficos
 
