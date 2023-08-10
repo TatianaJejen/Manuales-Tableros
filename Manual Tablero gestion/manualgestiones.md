@@ -61,7 +61,7 @@
 
 Se genera la creación de un menú flotante para dar espacio a las visualizaciones y que contaran con una medida ideal para su correcta lectura, adicional ayudara a una forma más rápida de navegación.
 
-![Imagenes/índiceFlotante.png](Imagenes/indiceFlotante.png)
+![Imagenes/índiceFlotante.png](Imagenes/IndiceFlotante.png)
 
 [índice](#índice)
 
