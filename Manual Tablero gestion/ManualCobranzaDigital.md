@@ -3,10 +3,10 @@
 
 # Manual Reporte Gestores
 
-## Indice
+## índice
 
 - [Manual Reporte Gestores](#manual-reporte-gestores)
-  - [Indice](#indice)
+  - [índice](#índice)
   - [1. Recursos](#1-recursos)
     - [Aliados de trabajo y herramientas](#aliados-de-trabajo-y-herramientas)
     - [Fuentes de trabajo](#fuentes-de-trabajo)
@@ -35,13 +35,13 @@
 
 ![Imagenes/aliadosyherramientas.png](Imagenes/aliadosyherramientas.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Fuentes de trabajo
 
 ![Imagenes/fuentesdetrabajo.png](Imagenes/fuentesdetrabajo.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Dimensión de variables
 
@@ -53,7 +53,7 @@
 
 ![Imagenes/dimensiondevariables.png](Imagenes/dimensiondevariables.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 2. Herramientas
 
@@ -61,9 +61,9 @@
 
 Se genera la creacion de un menú flotante para dar espacio a las visualizaciónes y que contaran con una medida ideal para su correcta lectura, adicional ayudara a una forma más rapida de navegacion.
 
-![Imagenes/IndiceFlotante.png](Imagenes/IndiceFlotante.png)
+![Imagenes/índiceFlotante.png](Imagenes/índiceFlotante.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Boton de ayuda
 
@@ -71,7 +71,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ![Imagenes/botondeayuda.png](Imagenes/botondeayuda.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Filtro relacional
 
@@ -83,7 +83,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ![Imagenes/filtrorelacional.png](Imagenes/filtrorelacional.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 3. Indicadores tarjetas
 
@@ -105,7 +105,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
   
 **- Negociaciones Totales:** Total de Llamadas donde el asesor  realiza acuerdo de pago con cliente / Llamadas donde se confirma titularidad.
   
-**- Negociaciones Cuentas:** Total de Llamadas donde el asesor  realiza acuerdo de pago por credito/ Llamadas donde se confirma titularidad.
+**- Negociaciones Cuentas:** Total de Llamadas donde el asesor  realiza acuerdo de pago por crédito/ Llamadas donde se confirma titularidad.
   
 **- Filtro por segmentos en valores de continuo cálculo:** Rango Mora dimensionado bajo los segmentos preestablecidos por parte de la entidad, intervalos acorde al último insumo de comité.
 
@@ -113,7 +113,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 **- % Efect. Contacto:** Llamadas del asesor que confirma un contacto con el titular.
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 4. Indicadores graficos
 
@@ -127,37 +127,37 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 **- Créditos Reducen Capital Por Año Desembolso:** Clientes que han reducido su Capital desde el año de desembolso
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por valor desembolsos
 
 ![Imagenes/gestionporvalordesembolsos.png](Imagenes/gestionporvalordesembolsos.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por mora inicial mes / por sucursal
 
 ![Imagenes/gestionpormorainicialmes.png](Imagenes/gestionpormorainicialmes.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por tipo identificación / capital inicio mes
 
 ![Imagenes/gestionportipoidentificaciónycapitaliniciomes.png](Imagenes/gestionportipoidentificaciónycapitaliniciomes.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por tipo de alivio / por marca vehículo
 
 ![Imagenes/gestionporalivioyvehiculo.png](Imagenes/gestionporalivioyvehiculo.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por producto / por tipo de prestamo
 
 ![Imagenes/gestionporproductoyprestamo.png](Imagenes/gestionporproductoyprestamo.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Mejor gestión
 
@@ -171,7 +171,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ![Imagenes/gestionpormejor.png](Imagenes/gestionpormejor.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Mapa de calor y efectividad
 
@@ -187,7 +187,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ![Imagenes/gestionasesormapasdecalor.png](Imagenes/gestionasesormapasdecalor.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por asesor
 
@@ -231,7 +231,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ![Imagenes/gestionasesorporasesor.png](Imagenes/gestionasesorporasesor.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por canal y franja
 
@@ -239,25 +239,25 @@ En esta matriz se podrán observar por día de la semana y franja horaria la ges
 
 **- Tiempo Conversación:** Tiempo total de gestión de llamadas   (tipificación, llamada, observaciones).
 
-**- WhatsApp Envío – Gestión:** Gestiones outbound en las que se genero un registro de tipificación.
+**- WhatsApp Envío – Gestión:** Gestiones outbound en las que se generó un registro de tipificación.
 
 **- WhatsApp Envío – Contacto:** Gestiones outbound  tipificadas como contacto con titular.
 
 **- WhatsApp Envío – Negociación:** Gestiones outbound tipificadas como negociación con titular.
 
-**- WhatsApp Recibido – Gestión:** Gestiones inbound en las que se genero un registro de tipificación.
+**- WhatsApp Recibido – Gestión:** Gestiones inbound en las que se generó un registro de tipificación.
 
 **- WhatsApp Recibido – Contacto:** Gestiones inbound tipificadas como contacto con titular.
 
 **- WhatsApp Recibido – Negociación:** Gestiones inbound tipificadas como negociación con titular.
 
-**- Hacer Llamada- Gestión:** llamadas outbound en las que se genero un registro de tipificación.
+**- Hacer Llamada- Gestión:** llamadas outbound en las que se generó un registro de tipificación.
 
 **- Hacer Llamada- Contacto :** llamadas outbound tipificadas como contacto con titular.
 
 **- Hacer Llamada- Negociación :** llamadas outbound tipificadas como negociación con titular.
 
-**- Recibir Llamada- Gestión:** llamadas inbound en las que se genero un registro de tipificación.
+**- Recibir Llamada- Gestión:** llamadas inbound en las que se generó un registro de tipificación.
 
 **- Recibir Llamada- Contacto :** llamadas inbound tipificadas como contacto con titular.
 
@@ -281,7 +281,7 @@ En esta matriz se podrán observar por día de la semana y franja horaria la ges
 
 ![Imagenes/gestionasesorporcanalyfranja.png](Imagenes/gestionasesorporcanalyfranja.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 5. Contacto
 

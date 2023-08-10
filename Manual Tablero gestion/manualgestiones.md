@@ -1,29 +1,28 @@
 
 ![badge](Imagenes/Logo_estratego_vetneg.webp)
 
-
 # Manual Reporte Gestores
 
-## Indice
+## índice
 
 - [Manual Reporte Gestores](#manual-reporte-gestores)
-  - [Indice](#indice)
+  - [índice](#índice)
   - [1. Recursos](#1-recursos)
     - [Aliados de trabajo y herramientas](#aliados-de-trabajo-y-herramientas)
     - [Fuentes de trabajo](#fuentes-de-trabajo)
     - [Dimensión de variables](#dimensión-de-variables)
   - [2. Herramientas](#2-herramientas)
     - [Menú](#menú)
-    - [Boton de ayuda](#boton-de-ayuda)
+    - [Botón de ayuda](#boton-de-ayuda)
     - [Filtro relacional](#filtro-relacional)
   - [3. Indicadores tarjetas](#3-indicadores-tarjetas)
     - [Gestión por mes](#gestión-por-mes)
-  - [4. Indicadores graficos](#4-indicadores-graficos)
+  - [4. Indicadores gráficos](#4-indicadores-graficos)
     - [Gestión por valor desembolsos](#gestión-por-valor-desembolsos)
     - [Gestión por mora inicial mes / por sucursal](#gestión-por-mora-inicial-mes--por-sucursal)
     - [Gestión por tipo identificación / capital inicio mes](#gestión-por-tipo-identificación--capital-inicio-mes)
     - [Gestión por tipo de alivio / por marca vehículo](#gestión-por-tipo-de-alivio--por-marca-vehículo)
-    - [Gestión por producto / por tipo de prestamo](#gestión-por-producto--por-tipo-de-prestamo)
+    - [Gestión por producto / por tipo de préstamo](#gestión-por-producto--por-tipo-de-prestamo)
     - [Mejor gestión](#mejor-gestión)
     - [Mapa de calor y efectividad](#mapa-de-calor-y-efectividad)
     - [Gestión por asesor](#gestión-por-asesor)
@@ -36,13 +35,13 @@
 
 ![Imagenes/aliadosyherramientas.png](Imagenes/aliadosyherramientas.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Fuentes de trabajo
 
 ![Imagenes/fuentesdetrabajo.png](Imagenes/fuentesdetrabajo.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Dimensión de variables
 
@@ -54,25 +53,27 @@
 
 ![Imagenes/dimensiondevariables.png](Imagenes/dimensiondevariables.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 2. Herramientas
 
 ### Menú
 
-Se genera la creacion de un menú flotante para dar espacio a las visualizaciónes y que contaran con una medida ideal para su correcta lectura, adicional ayudara a una forma más rapida de navegacion.
+Se genera la creación de un menú flotante para dar espacio a las visualizaciones y que contaran con una medida ideal para su correcta lectura, adicional ayudara a una forma más rápida de navegación.
 
-![Imagenes/IndiceFlotante.png](Imagenes/IndiceFlotante.png)
+![Imagenes/índiceFlotante.png](Imagenes/indiceFlotante.png)
 
-[Indice](#indice)
+[índice](#índice)
 
-### Boton de ayuda
+### Botón de ayuda
 
-Se realiza la creación de este boton para que al dar clic pueda mostrar comentarios referentes a las visualizaciones que se encuentran segun cada vista y sea más facil la interpretacion de este tablero.
+Se realiza la creación de este botón para que al dar clic pueda mostrar comentarios referentes a las visualizaciones que se encuentran según cada vista y sea más fácil la interpretación de este tablero.
 
 ![Imagenes/botondeayuda.png](Imagenes/botondeayuda.png)
 
-[Indice](#indice)
+![badge](Imagenes/filtrosyflotantes.gif)
+
+[índice](#índice)
 
 ### Filtro relacional
 
@@ -80,11 +81,11 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 **- Segundo Recuadro:** Escribiendo un número se podrá seleccionar la temporalidad a consultar.
 
-**- Tercer Recuadro:** Preferiblemente seleccionar la opción “ Meses (calendario)”, aunque igualmente se pueden referenciar otras temporalidades.
+**- Tercer Recuadro:** Preferiblemente seleccionar la opción “Meses (calendario)”, aunque igualmente se pueden referenciar otras temporalidades.
 
 ![Imagenes/filtrorelacional.png](Imagenes/filtrorelacional.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 3. Indicadores tarjetas
 
@@ -96,7 +97,7 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 **- Gestión x Cuenta:** Gestiones realizadas al crédito por parte del asesor.
   
-**- Gestión x Teléfono:** Gestiones realizadas a los telefonos por parte del asesor.  
+**- Gestión x Teléfono:** Gestiones realizadas a los teléfonos  por parte del asesor.  
   
 **- Gestión x Totales:**  Todas las gestiones realizadas por los asesores.
   
@@ -106,17 +107,17 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
   
 **- Negociaciones Totales:** Total de Llamadas donde el asesor  realiza acuerdo de pago con cliente / Llamadas donde se confirma titularidad.
   
-**- Negociaciones Cuentas:** Total de Llamadas donde el asesor  realiza acuerdo de pago por credito/ Llamadas donde se confirma titularidad.
+**- Negociaciones Cuentas:** Total de Llamadas donde el asesor  realiza acuerdo de pago por crédito/ Llamadas donde se confirma titularidad.
   
-**- Filtro por segmentos en valores de continuo cálculo:** Rango Mora dimensionado bajo los segmentos preestablecidos por parte de la entidad, intervalos acorde al último insumo de comité.
+**- Filtro por segmentos en valores de continuo cálculo:** Rango Mora dimensionado bajo los segmentos preestablecidos por parte de la entidad, intervalos acordes al último insumo de comité.
 
-**- % Efect. Negociación:** Llamadas donde se realiza acuerdo de pago con cliente / Llamadas donde se confirma titularidad.
+**- % Efectividad Negociación:** Llamadas donde se realiza acuerdo de pago con cliente / Llamadas donde se confirma titularidad.
 
-**- % Efect. Contacto:** Llamadas del asesor que confirma un contacto con el titular.
+**- % Efectividad Contacto:** Llamadas del asesor que confirma un contacto con el titular.
 
-[Indice](#indice)
+[índice](#índice)
 
-## 4. Indicadores graficos
+## 4. Indicadores gráficos
 
 **- Efectividad Contacto Por Año Desembolso:** Gestiones realizadas al cliente por parte del asesor.
 
@@ -128,67 +129,67 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 **- Créditos Reducen Capital Por Año Desembolso:** Clientes que han reducido su Capital desde el año de desembolso
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por valor desembolsos
 
 ![Imagenes/gestionporvalordesembolsos.png](Imagenes/gestionporvalordesembolsos.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por mora inicial mes / por sucursal
 
 ![Imagenes/gestionpormorainicialmes.png](Imagenes/gestionpormorainicialmes.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por tipo identificación / capital inicio mes
 
 ![Imagenes/gestionportipoidentificaciónycapitaliniciomes.png](Imagenes/gestionportipoidentificaciónycapitaliniciomes.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por tipo de alivio / por marca vehículo
 
 ![Imagenes/gestionporalivioyvehiculo.png](Imagenes/gestionporalivioyvehiculo.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por producto / por tipo de prestamo
 
 ![Imagenes/gestionporproductoyprestamo.png](Imagenes/gestionporproductoyprestamo.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Mejor gestión
 
-**- Cantidad Créditos por Mejor Gestión:** Son  la cantidad de créditos que han tenido como mejor gestión  cada una de las siguientes tipificaciones (Rango Y).
+**- Cantidad Créditos por Mejor Gestión:** Son la cantidad de créditos que han tenido como mejor gestión cada una de las siguientes tipificaciones (Rango Y).
 
 **- Valor capital por Mejor Gestión :** El valor capital de los créditos que se han gestionado y su respectiva mejor tipología (Rango Y).
 
 **- Cliente reduce capital  por Mejor Gestión:** La cantidad de créditos que se han gestionado su respectiva mejor tipología y que han reducido su capital según la fecha filtrada (Rango Y).
 
-**- Valor Pago por Mejor Gestión :** El valor de pago a cuotas que registran con esa tipología de mejor gestión del asesor, para saber de que tipo de gestión fue que entró el pago
+**- Valor Pago por Mejor Gestión :** El valor de pago a cuotas que registran con esa tipología de mejor gestión del asesor, para saber de qué tipo de gestión fue que entró el pago.
 
 ![Imagenes/gestionpormejor.png](Imagenes/gestionpormejor.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Mapa de calor y efectividad
 
-**- % Efect.Contacto Por Fecha:** Porcentaje de Contacto por fecha.
+**- % Efectividad Contacto Por Fecha:** Porcentaje de Contacto por fecha.
 
-**- % Efect.Negociación Por Fecha:** Porcentaje de negociación por fecha.
+**- % Efectividad Negociación Por Fecha:** Porcentaje de negociación por fecha.
 
-**- % Efect.Pago Acuerdo por Semana Año:** Porcentaje de los pagos de los acuerdos realizados por semana.
+**- % Efectividad Pago Acuerdo por Semana Año:** Porcentaje de los pagos de los acuerdos realizados por semana.
 
-**- Mapa de Calor :** Son los porcentajes de contacto y negociación de los créditos  según días calendario de la fecha filtrada, estos indicadores cuentan con formato condicional que nos indicaran en rojo los días que fueron menos efectivos y en verde los más efectivos.
+**- Mapas de Calor :** Son los porcentajes de contacto y negociación de los créditos según días calendario de la fecha filtrada, estos indicadores cuentan con formato condicional que nos indicaran en rojo los días que fueron menos efectivos y en verde los más efectivos.
 
 *Nota:* Es importante tener en cuenta que estos calendarios funciona solo si se filtra mes único, no varios meses
 
 ![Imagenes/gestionasesormapasdecalor.png](Imagenes/gestionasesormapasdecalor.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por asesor
 
@@ -232,37 +233,37 @@ Se realiza la creación de este boton para que al dar clic pueda mostrar comenta
 
 ![Imagenes/gestionasesorporasesor.png](Imagenes/gestionasesorporasesor.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Gestión por canal y franja
 
-En esta matriz se podrán observar por día de la semana y franja horaria la gestión de asesores por canal como los siguientes indicadores :
+En esta matriz se podrán observar por día de la semana y franja horaria la gestión de asesores por canal como los siguientes indicadores:
 
 **- Tiempo Conversación:** Tiempo total de gestión de llamadas   (tipificación, llamada, observaciones).
 
-**- WhatsApp Envío – Gestión:** Gestiones outbound en las que se genero un registro de tipificación.
+**- WhatsApp Envío – Gestión:** Gestiones outbound en las que se generó un registro de tipificación.
 
 **- WhatsApp Envío – Contacto:** Gestiones outbound  tipificadas como contacto con titular.
 
 **- WhatsApp Envío – Negociación:** Gestiones outbound tipificadas como negociación con titular.
 
-**- WhatsApp Recibido – Gestión:** Gestiones inbound en las que se genero un registro de tipificación.
+**- WhatsApp Recibido – Gestión:** Gestiones inbound en las que se generó un registro de tipificación.
 
 **- WhatsApp Recibido – Contacto:** Gestiones inbound tipificadas como contacto con titular.
 
 **- WhatsApp Recibido – Negociación:** Gestiones inbound tipificadas como negociación con titular.
 
-**- Hacer Llamada- Gestión:** llamadas outbound en las que se genero un registro de tipificación.
+**- Hacer Llamada- Gestión:** llamadas outbound en las que se generó un registro de tipificación.
 
-**- Hacer Llamada- Contacto :** llamadas outbound tipificadas como contacto con titular.
+**- Hacer Llamada- Contacto:** llamadas outbound tipificadas como contacto con titular.
 
-**- Hacer Llamada- Negociación :** llamadas outbound tipificadas como negociación con titular.
+**- Hacer Llamada- Negociación:** llamadas outbound tipificadas como negociación con titular.
 
-**- Recibir Llamada- Gestión:** llamadas inbound en las que se genero un registro de tipificación.
+**- Recibir Llamada- Gestión:** llamadas inbound en las que se generó un registro de tipificación.
 
-**- Recibir Llamada- Contacto :** llamadas inbound tipificadas como contacto con titular.
+**- Recibir Llamada- Contacto:** llamadas inbound tipificadas como contacto con titular.
 
-**- Recibir Llamada- Negociación :** llamadas inbound tipificadas como negociación con titular.
+**- Recibir Llamada- Negociación:** llamadas inbound tipificadas como negociación con titular.
 
 **- Solicitud Visita – Gestión:**  Gestiones que registran tipificación de solicitud de visita por parte del titular.
 
@@ -270,7 +271,7 @@ En esta matriz se podrán observar por día de la semana y franja horaria la ges
 
 **- Solicitud Visita – Negociación:** Gestiones que registran tipificación negociación y solicitud de visita por parte del titular.
 
-**- Valor pago Total:**  La sumas de pagos Capital, intereses y seguros (solo se reflejan los que cuentan con gestión asesor).
+**- Valor pago Total:**  Las sumas de pagos Capital, intereses y seguros (solo se reflejan los que cuentan con gestión asesor).
 
 **- Valor pago Capital:** Pagos aplicados solo a capital (solo se reflejan los que cuentan con gestión asesor).
 
@@ -282,15 +283,14 @@ En esta matriz se podrán observar por día de la semana y franja horaria la ges
 
 ![Imagenes/gestionasesorporcanalyfranja.png](Imagenes/gestionasesorporcanalyfranja.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 5. Contacto
 
-Para sugerencias,dudas o peticiones contactar a los siguientes correos (Equipo IA DataPro):
+Para sugerencias, dudas o peticiones contactar a los siguientes correos:
 
 *angie.jejen@finanzauto.com.co*
 
-*adan.espinosa@finanzauto.com.co*
 
 
-                                                    2023 © DataPro
+                                                    2023 © Estratego

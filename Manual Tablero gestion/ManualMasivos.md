@@ -3,10 +3,10 @@
 
 # Manual Reporte Masivos
 
-## Indice
+## índice
 
 - [Manual Reporte Masivos](#manual-reporte-masivos)
-  - [Indice](#indice)
+  - [índice](#índice)
   - [1. Recursos](#1-recursos)
     - [Aliados de trabajo y herramientas](#aliados-de-trabajo-y-herramientas)
     - [Fuentes de trabajo](#fuentes-de-trabajo)
@@ -39,13 +39,13 @@
 
 ![Imagenes/aliadosyherramientas.png](Imagenes/aliadosyherramientas.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Fuentes de trabajo
 
 ![Imagenes/fuentesdetrabajo.png](Imagenes/fuentesdetrabajo.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Dimensión de variables
 
@@ -57,7 +57,7 @@
 
 ![Imagenes/dimensiondevariables.png](Imagenes/dimensiondevariables.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 2. Herramientas
 
@@ -69,7 +69,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ![badge](Imagenes/filtrosyflotantes.gif)
 
-[Indice](#indice)
+[índice](#índice)
 
 ### Filtro relacional
 
@@ -81,7 +81,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 ![Imagenes/filtrorelacional.png](Imagenes/filtrosmasivos.png)
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 3. Indicadores tarjetas
 
@@ -109,7 +109,7 @@ Se realiza la creación de marcadores por medio de botones para facilitar la int
 
 **- Total Acuerdos:** Créditos con Promesa de pago en llamada.
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 4. SMS-Resumen Mensual
 
@@ -140,7 +140,7 @@ En esta matriz se podrá visualizar el porcentaje de participación de los SMS s
 
 Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la participación por cada uno de los tipos de riesgo.
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 5. Bots-Resumen Mensual
 
@@ -172,7 +172,7 @@ En esta matriz se podrá visualizar el porcentaje de participación de los SMS s
 
 Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la participación por cada uno de los tipos de riesgo.
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 6. SMS - Campañas Diarias
 
@@ -214,7 +214,7 @@ Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la 
 
 En este grafico de termómetro podremos visualizar como está el porcentaje de pago al día.
 
-[Indice](#indice)
+[índice](#índice)
 
 ## 7. Bots - Campañas Diarias
 
@@ -242,7 +242,7 @@ En este grafico de termómetro podremos visualizar como está el porcentaje de p
 
 En este grafico de termómetro podremos visualizar como está el porcentaje de pago al día.
   
-[Indice](#indice)
+[índice](#índice)
 
 ## 8. Contacto
 
