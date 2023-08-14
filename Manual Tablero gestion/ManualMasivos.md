@@ -53,7 +53,7 @@
 
 - Descripción de variables de ejecución, comportamiento y otros factores de la gestión en controlnext
 
-- Medición y retroalimentación de focos, gestores y canales de mayor eficiencia y efectividad (comportamiento variables Score asignación C-Universe).
+- Medición y retroalimentación de focos, gestores y canales de mayor eficiencia y efectividad (comportamiento variables Score asignación CAP).
 
 ![Imagenes/dimensiondevariables.png](Imagenes/dimensiondevariables.png)
 
@@ -192,7 +192,7 @@ Porcentaje de efectividad del posible pago que se tuvieron de los SMS según la 
   
 - **Teléfonos:** Cantidad de teléfonos a los que se les enviaran los SMS.
   
-- **% Intensudad:** Intensidad de SMS que se envían por créditos (teléfonos/créditos).
+- **% Intensidad:** Intensidad de SMS que se envían por créditos (teléfonos/créditos).
   
 - **Contactos:** Posible contacto que se fomentó por él envió de los SMS ya que se realizó entre los 3 días siguientes al envió.
   
